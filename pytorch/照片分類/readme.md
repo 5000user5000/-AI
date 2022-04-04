@@ -1,6 +1,5 @@
-<article class="article-content">
-<h3>把動漫圖給分類,我最喜歡的部分,2019年所寫的code</h3>
+## 把動漫圖給分類,我最喜歡的部分,2019年所寫的code
 multi_image_classify是把動漫圖每一種來源的可能性標在圖上
 multi6.是進一步只標示最可能的名稱,但是檔案過大,所以改用.py來上傳
 當初網路上只有分類2種動漫的demo,稍加修改就能變成多種的分類
-</article>
+
